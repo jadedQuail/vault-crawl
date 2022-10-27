@@ -1,0 +1,35 @@
+Asset									Creator						Link
+-------------------------------------------------			--------------------------------------		-----------------------------------------------------------------
+Sword icon								Eucalyp						https://thenounproject.com/icon/sword-1282866
+Ninja Adventure assets							pixel-boy					https://pixel-boy.itch.io/ninja-adventure-asset-pack 
+Kyrise's 16x16 RPG Icons						Kyrise						https://kyrise.itch.io/kyrises-free-16x16-rpg-icon-pack
+moose-stache RPG asset pack						moose-stache					https://moose-stache.itch.io/rpg-asset-pack
+Simple Dungeon Crawler 16x16 Pixel Art Asset Pack			ddafasdf					https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack
+UI Panels and Buttons							ArMM1998					https://www.udemy.com/course/unity2drpg/
+Warped Explosion Pack 2							ansimuz						https://ansimuz.itch.io/warped-explosion-pack-2
+Speed boost icon							Tim Boelaars					https://thenounproject.com/icon/speed-12193/
+Fire_Animation								Elska						https://elska.itch.io/pixel-fire
+Fire Icon								The Icon Z					https://thenounproject.com/icon/fire-3325379/ 
+Snowflake Icon								sasicreatives					https://thenounproject.com/icon/ice-2035435/
+Letter E Key Icon							Md Tanvirul Haque				https://www.flaticon.com/packs/a-to-z-capital-letter
+Letter I Key Icon							Md Tanvirul Haque				https://www.flaticon.com/packs/a-to-z-capital-letter
+Letter M Key Icon							Md Tanvirul Haque				https://www.flaticon.com/packs/a-to-z-capital-letter
+Escape Key Icon								Pixel perfect					https://www.flaticon.com/packs/keyboard-5
+Left Click Icon								Smashicons					https://www.flaticon.com/packs/computer-interactions
+Right Click Icon							Smashicons					https://www.flaticon.com/packs/computer-interactions
+Trophy sprites								Vsio NeithR					https://vsioneithr.itch.io/trophy-cups-pixel-pack					
+Border Icon								Freepik						https://www.flaticon.com/packs/coolicons
+NavMeshPlus								h8man, colinbellino, rhys-vdw, codxr02		https://github.com/h8man/NavMeshPlus
+Laser Beam Pixel Art FX							Retsnail Assets					https://retsnail-assets.itch.io/laserbeamfx
+Crown Icon								Freepik						https://www.flaticon.com/free-icon/crown_1657088
+
+Tutorial								Creator						Link
+-------------------------------------------------			--------------------------------------		-----------------------------------------------------------------
+Learn to Create An RPG Game in Unity					James Doyle					https://www.udemy.com/course/unity2drpg/
+Simple 2D Pathfinding in 4 Lines of Code! | Unity Tutorial		TheZBillDyl					https://www.youtube.com/watch?v=W-NIYi1t16Q
+Unity NavMesh Tutorial - Making it Dynamic				Brackeys					https://www.youtube.com/watch?v=FkLJ45Pt-mY
+RANDOM DUNGEON GENERATOR - EASY UNITY TUTORIAL - #1			Blackthornprod					https://www.youtube.com/watch?v=qAf9axsyijY
+RANDOM DUNGEON GENERATOR - EASY UNITY TUTORIAL - #2			Blackthornprod					https://www.youtube.com/watch?v=eR74EjkA_4s
+2D Character Hitpoints in Unity / 2022					Distorted Pixel Studios				https://www.youtube.com/watch?v=v1UGTTeQzbo
+How to make a Health Bar (Unity 2D Tutorial for Beginners)		Code Monkey					https://www.youtube.com/watch?v=Gtw7VyuMdDc
+How to fix tilemap tearing and edges/gaps in a 2D Unity Project...	Alex Renard					https://www.youtube.com/watch?v=Wf98KrAyB2I

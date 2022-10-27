@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdd50de7e330c5a47a9f6fb57f07da1d, type: 3}
+  m_Name: Vivid Cleats
+  m_EditorClassIdentifier: 
+  weaponName: Vivid Cleats
+  weaponDamage: 0
+  weaponType: talisman
+  weaponDescription: Sharply-colored cleats, designed to be light yet supporting.
+  weaponAttributes: '
+
+    +20% Speed'
+  weaponSprite: {fileID: 21300000, guid: cb15967f4710ad74084fac30e4a3619c, type: 3}
+  weaponSpriteType: Straight
+  spriteFlipped: 0
+  spriteAngle: 0
+  buyValue: 100
+  sellValue: 76
+  isTalisman: 1
+  talismanType: percent_speed
+  fixedAttackBuff: 0
+  fixedBowBuff: 0
+  fixedHPBuff: 0
+  percentAttackBuff: 0
+  percentBowBuff: 0
+  percentHPBuff: 0
+  percentSpeedBuff: 20

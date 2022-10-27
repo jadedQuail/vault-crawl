@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdd50de7e330c5a47a9f6fb57f07da1d, type: 3}
+  m_Name: Lucky Shrimp
+  m_EditorClassIdentifier: 
+  weaponName: Lucky Shrimp
+  weaponDamage: 0
+  weaponType: talisman
+  weaponDescription: A simple shrimp stolen from a buffet, yet somehow it emanates
+    a special energy.
+  weaponAttributes: '
+
+    +10% Attack Damage'
+  weaponSprite: {fileID: 21300000, guid: 4ddeec749153c214f8f2363862772dbd, type: 3}
+  weaponSpriteType: Straight
+  spriteFlipped: 0
+  spriteAngle: 0
+  buyValue: 25
+  sellValue: 19
+  isTalisman: 1
+  talismanType: percent_attack
+  fixedAttackBuff: 0
+  fixedBowBuff: 0
+  fixedHPBuff: 0
+  percentAttackBuff: 10
+  percentBowBuff: 0
+  percentHPBuff: 0
+  percentSpeedBuff: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdd50de7e330c5a47a9f6fb57f07da1d, type: 3}
+  m_Name: Cosmic Hemlock
+  m_EditorClassIdentifier: 
+  weaponName: Cosmic Hemlock
+  weaponDamage: 35
+  weaponType: bow
+  weaponDescription: A bow said to be made from stardust. Its shaft is said to be
+    poisonous to the touch for the unworthy.
+  weaponAttributes: '
+
+    35 Bow Damage'
+  weaponSprite: {fileID: 21300000, guid: 506ff2d774170fa4daad64d8c9fe3ca5, type: 3}
+  weaponSpriteType: Kyrises
+  spriteFlipped: 1
+  spriteAngle: 270
+  buyValue: 225
+  sellValue: 169
+  isTalisman: 0
+  talismanType: 
+  fixedAttackBuff: 0
+  fixedBowBuff: 0
+  fixedHPBuff: 0
+  percentAttackBuff: 0
+  percentBowBuff: 0
+  percentHPBuff: 0
+  percentSpeedBuff: 0

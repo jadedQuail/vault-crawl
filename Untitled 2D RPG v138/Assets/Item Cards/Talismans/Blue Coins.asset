@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdd50de7e330c5a47a9f6fb57f07da1d, type: 3}
+  m_Name: Blue Coins
+  m_EditorClassIdentifier: 
+  weaponName: Blue Coins
+  weaponDamage: 0
+  weaponType: talisman
+  weaponDescription: A pair of blue coins, used as currency in the Atlantic Aquatic
+    Republic.
+  weaponAttributes: '
+
+    +50% HP'
+  weaponSprite: {fileID: 21300000, guid: 42e46c7cf2c295c46acadebf50a417aa, type: 3}
+  weaponSpriteType: Straight
+  spriteFlipped: 0
+  spriteAngle: 0
+  buyValue: 75
+  sellValue: 56
+  isTalisman: 1
+  talismanType: percent_HP
+  fixedAttackBuff: 0
+  fixedBowBuff: 0
+  fixedHPBuff: 0
+  percentAttackBuff: 0
+  percentBowBuff: 0
+  percentHPBuff: 50
+  percentSpeedBuff: 0

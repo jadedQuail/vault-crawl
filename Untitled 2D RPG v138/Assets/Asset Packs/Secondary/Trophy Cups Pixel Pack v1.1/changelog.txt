@@ -1,0 +1,14 @@
+v1.0 (18th March, 2016 UTC):
+- Pack is released.
+
+v1.1 (5th April, 2016 UTC):
+- Added changelog.txt for documenting changes.
+- Added readme.txt for copyright notice.
+- Added 75 new trophies which contains:
+-- 5 new different trophy shapes
+-- 15 new silhoutte trophies (5 trophies for each size)
+-- 15 new bronze trophies (5 trophies for each size)
+-- 15 new silver trophies (5 trophies for each size)
+-- 15 new gold trophies (5 trophies for each size)
+-- 15 new platinum trophies (5 trophies for each size)
+- The new trophy addition made the total 300 trophies.

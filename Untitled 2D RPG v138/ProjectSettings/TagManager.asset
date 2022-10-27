@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Solid Object
+  - HUD
+  - Arrow
+  - Master
+  - AreaEntrance
+  - StraightSword
+  - KyrisesSword
+  - Level Up Panel
+  - SpawnPoint
+  - Rooms
+  - ClosedNode
+  - OpenNode
+  - BackgroundRoomNode
+  - MinimapCamera
+  - DungeonManager
+  - AbilityManager
+  - NPC
+  - Shopkeeper
+  - ParticleSpawner
+  - TimeBonus
+  - Smoke
+  - Baron
+  - MobSpawner
+  - ChargeExplosion
+  - Laser
+  - LaserCharger
+  - Trail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Blocker
+  - Minimap
+  - Enemy
+  - Map Details
+  - Projectile
+  - Drops
+  - Abilities
+  - Enemy Details
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TextLayer
+    uniqueID: 761046643
+    locked: 0
